@@ -43,3 +43,11 @@ This is my first project in Rust, and possibly my most ambitious project. Previo
   - https://github.com/rust-lang/rust-analyzer/issues/14258
   - Wasn't a neovim issue, was slow on VSC too
   - Guessing it's because leptos is huge so the startup analysis is slow
+
+### 2023-10-27
+- Learning HTML since I forgot about that part and dove head on into react [cheatsheet](https://web.stanford.edu/group/csp/cs21/htmlcheatsheet.pdf)
+- Decided that I will implement functionality first before styling
+- Added a login page
+- Added a home page
+- Initialized backend with axum
+- Will be following this [video](https://www.youtube.com/watch?v=XZtlD_m59sM) until I figure out the authentication cookie setting part
