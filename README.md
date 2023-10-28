@@ -45,9 +45,15 @@ This is my first project in Rust, and possibly my most ambitious project. Previo
   - Guessing it's because leptos is huge so the startup analysis is slow
 
 ### 2023-10-27
+
 - Learning HTML since I forgot about that part and dove head on into react [cheatsheet](https://web.stanford.edu/group/csp/cs21/htmlcheatsheet.pdf)
 - Decided that I will implement functionality first before styling
 - Added a login page
 - Added a home page
 - Initialized backend with axum
 - Will be following this [video](https://www.youtube.com/watch?v=XZtlD_m59sM) until I figure out the authentication cookie setting part
+
+### 2023-10-28
+
+- Didn't get much done today, went out to explore earth instead.
+- use `cargo watch -c -x run` to `clear` then `cargo run` every time a file changes
