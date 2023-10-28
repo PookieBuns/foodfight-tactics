@@ -56,4 +56,5 @@ This is my first project in Rust, and possibly my most ambitious project. Previo
 ### 2023-10-28
 
 - Didn't get much done today, went out to explore earth instead.
-- use `cargo watch -c -x run` to `clear` then `cargo run` every time a file changes. Basically custom hot reloading
+- Found out about `cargo watch`. It's kinda lit
+  - use `cargo watch -c -x run` to `clear` then `cargo run` every time a file changes. Basically custom hot reloading
